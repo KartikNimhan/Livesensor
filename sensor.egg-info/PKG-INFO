@@ -3,3 +3,4 @@ Name: sensor
 Version: 0.0.1
 Author: kartik
 Author-email: kartiknimhan9929@gmail.com
+Requires-Dist: pymongo
